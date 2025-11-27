@@ -3,8 +3,8 @@ export const users = [
   {username:'asdf', password:'asdf',email:'asdf',name:'John Doe2',quizMarks: {C:'NA',Java:'NA', ML:'NA',Cybersecurity:'NA'}},
 
 
-  {username:'charviupreti@gmail.com',password:'9899112792',email:'charviupreti@gmail.com',name:'John Doe3',quizMarks: {C:65,Java:55, ML:68,Cybersecurity:37}},
-  {username:'prathyuma.v2020@vitstudent.ac.in',password:'9600188603',email:'prathyuma.v2020@vitstudent.ac.in',name:'John Doe4',quizMarks: {C:84,Java:27, ML:58,Cybersecurity:'NA'}},       
+  {username:'test1',password:'asdf',email:'test1@gmail.com',name:'John Doe3',quizMarks: {C:65,Java:55, ML:68,Cybersecurity:37}},
+  {username:'test2',password:'asdf',email:'test2@gmail.com',name:'John Doe4',quizMarks: {C:84,Java:27, ML:58,Cybersecurity:'NA'}},       
   {username:'rengakrishnaa@gmail.com',password:'6379435053',email:'rengakrishnaa@gmail.com',name:'John Doe',quizMarks: {C:'NA',Java:'NA', ML:'NA',Cybersecurity:'NA'}},
   {username:'chirayu.batra2021@vitstudent.ac.in',password:'8851435787',email:'chirayu.batra2021@vitstudent.ac.in',name:'John Doe',quizMarks: {C:'NA',Java:'NA', ML:'NA',Cybersecurity:'NA'}},   
   {username:'anshu.garg2021@vitstudent.ac.in',password:'7696897296',email:'anshu.garg2021@vitstudent.ac.in',name:'John Doe',quizMarks: {C:'NA',Java:'NA', ML:'NA',Cybersecurity:'NA'}},
