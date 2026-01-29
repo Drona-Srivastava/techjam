@@ -1,4 +1,4 @@
-# 🚀 TechJam 
+#  TechJam 
 
 TechJam is a **technology-focused learning and assessment platform** developed for an ACM VIT event. The platform provides students with curated learning tracks, quizzes across multiple domains, and a **real-time leaderboard** to track performance.
 
@@ -6,7 +6,7 @@ This project was built with the goal of creating a **clean, scalable, and intera
 
 ---
 
-## ✨ Features
+##  Features
 
 - Authentication System (Mock login-based)
 -  Multiple Technology Tracks
